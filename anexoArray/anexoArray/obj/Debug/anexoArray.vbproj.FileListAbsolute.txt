@@ -1,0 +1,12 @@
+C:\Users\villa MEDAC\source\repos\anexoArray\anexoArray\bin\Debug\anexoArray.exe.config
+C:\Users\villa MEDAC\source\repos\anexoArray\anexoArray\bin\Debug\anexoArray.exe
+C:\Users\villa MEDAC\source\repos\anexoArray\anexoArray\bin\Debug\anexoArray.pdb
+C:\Users\villa MEDAC\source\repos\anexoArray\anexoArray\bin\Debug\anexoArray.xml
+C:\Users\villa MEDAC\source\repos\anexoArray\anexoArray\obj\Debug\anexoArray.vbproj.AssemblyReference.cache
+C:\Users\villa MEDAC\source\repos\anexoArray\anexoArray\obj\Debug\anexoArray.vbproj.SuggestedBindingRedirects.cache
+C:\Users\villa MEDAC\source\repos\anexoArray\anexoArray\obj\Debug\anexoArray.Resources.resources
+C:\Users\villa MEDAC\source\repos\anexoArray\anexoArray\obj\Debug\anexoArray.vbproj.GenerateResource.cache
+C:\Users\villa MEDAC\source\repos\anexoArray\anexoArray\obj\Debug\anexoArray.vbproj.CoreCompileInputs.cache
+C:\Users\villa MEDAC\source\repos\anexoArray\anexoArray\obj\Debug\anexoArray.exe
+C:\Users\villa MEDAC\source\repos\anexoArray\anexoArray\obj\Debug\anexoArray.xml
+C:\Users\villa MEDAC\source\repos\anexoArray\anexoArray\obj\Debug\anexoArray.pdb
