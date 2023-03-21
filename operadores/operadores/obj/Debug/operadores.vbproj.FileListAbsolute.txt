@@ -1,0 +1,12 @@
+C:\Users\villa MEDAC\source\repos\operadores\operadores\bin\Debug\operadores.exe.config
+C:\Users\villa MEDAC\source\repos\operadores\operadores\bin\Debug\operadores.exe
+C:\Users\villa MEDAC\source\repos\operadores\operadores\bin\Debug\operadores.pdb
+C:\Users\villa MEDAC\source\repos\operadores\operadores\bin\Debug\operadores.xml
+C:\Users\villa MEDAC\source\repos\operadores\operadores\obj\Debug\operadores.vbproj.AssemblyReference.cache
+C:\Users\villa MEDAC\source\repos\operadores\operadores\obj\Debug\operadores.vbproj.SuggestedBindingRedirects.cache
+C:\Users\villa MEDAC\source\repos\operadores\operadores\obj\Debug\operadores.Resources.resources
+C:\Users\villa MEDAC\source\repos\operadores\operadores\obj\Debug\operadores.vbproj.GenerateResource.cache
+C:\Users\villa MEDAC\source\repos\operadores\operadores\obj\Debug\operadores.vbproj.CoreCompileInputs.cache
+C:\Users\villa MEDAC\source\repos\operadores\operadores\obj\Debug\operadores.exe
+C:\Users\villa MEDAC\source\repos\operadores\operadores\obj\Debug\operadores.xml
+C:\Users\villa MEDAC\source\repos\operadores\operadores\obj\Debug\operadores.pdb
