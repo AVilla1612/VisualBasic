@@ -1,0 +1,12 @@
+C:\Users\villa MEDAC\source\repos\EjercicioBanco\EjercicioBanco\bin\Debug\EjercicioBanco.exe.config
+C:\Users\villa MEDAC\source\repos\EjercicioBanco\EjercicioBanco\bin\Debug\EjercicioBanco.exe
+C:\Users\villa MEDAC\source\repos\EjercicioBanco\EjercicioBanco\bin\Debug\EjercicioBanco.pdb
+C:\Users\villa MEDAC\source\repos\EjercicioBanco\EjercicioBanco\bin\Debug\EjercicioBanco.xml
+C:\Users\villa MEDAC\source\repos\EjercicioBanco\EjercicioBanco\obj\Debug\EjercicioBanco.vbproj.AssemblyReference.cache
+C:\Users\villa MEDAC\source\repos\EjercicioBanco\EjercicioBanco\obj\Debug\EjercicioBanco.vbproj.SuggestedBindingRedirects.cache
+C:\Users\villa MEDAC\source\repos\EjercicioBanco\EjercicioBanco\obj\Debug\EjercicioBanco.Resources.resources
+C:\Users\villa MEDAC\source\repos\EjercicioBanco\EjercicioBanco\obj\Debug\EjercicioBanco.vbproj.GenerateResource.cache
+C:\Users\villa MEDAC\source\repos\EjercicioBanco\EjercicioBanco\obj\Debug\EjercicioBanco.vbproj.CoreCompileInputs.cache
+C:\Users\villa MEDAC\source\repos\EjercicioBanco\EjercicioBanco\obj\Debug\EjercicioBanco.exe
+C:\Users\villa MEDAC\source\repos\EjercicioBanco\EjercicioBanco\obj\Debug\EjercicioBanco.xml
+C:\Users\villa MEDAC\source\repos\EjercicioBanco\EjercicioBanco\obj\Debug\EjercicioBanco.pdb
