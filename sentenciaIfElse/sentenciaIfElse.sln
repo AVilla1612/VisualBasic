@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "sentenciaIfElse", "sentenciaIfElse\sentenciaIfElse.vbproj", "{770921F4-BB83-42EE-AE4D-37EE5CBBCA97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{770921F4-BB83-42EE-AE4D-37EE5CBBCA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770921F4-BB83-42EE-AE4D-37EE5CBBCA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770921F4-BB83-42EE-AE4D-37EE5CBBCA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770921F4-BB83-42EE-AE4D-37EE5CBBCA97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {706FD5BC-417F-4C53-8383-C62496A2122C}
+	EndGlobalSection
+EndGlobal
