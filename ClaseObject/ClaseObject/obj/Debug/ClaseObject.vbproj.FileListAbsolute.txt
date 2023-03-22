@@ -1,0 +1,12 @@
+C:\Users\villa MEDAC\source\repos\ClaseObject\ClaseObject\bin\Debug\ClaseObject.exe.config
+C:\Users\villa MEDAC\source\repos\ClaseObject\ClaseObject\bin\Debug\ClaseObject.exe
+C:\Users\villa MEDAC\source\repos\ClaseObject\ClaseObject\bin\Debug\ClaseObject.pdb
+C:\Users\villa MEDAC\source\repos\ClaseObject\ClaseObject\bin\Debug\ClaseObject.xml
+C:\Users\villa MEDAC\source\repos\ClaseObject\ClaseObject\obj\Debug\ClaseObject.vbproj.AssemblyReference.cache
+C:\Users\villa MEDAC\source\repos\ClaseObject\ClaseObject\obj\Debug\ClaseObject.vbproj.SuggestedBindingRedirects.cache
+C:\Users\villa MEDAC\source\repos\ClaseObject\ClaseObject\obj\Debug\ClaseObject.Resources.resources
+C:\Users\villa MEDAC\source\repos\ClaseObject\ClaseObject\obj\Debug\ClaseObject.vbproj.GenerateResource.cache
+C:\Users\villa MEDAC\source\repos\ClaseObject\ClaseObject\obj\Debug\ClaseObject.vbproj.CoreCompileInputs.cache
+C:\Users\villa MEDAC\source\repos\ClaseObject\ClaseObject\obj\Debug\ClaseObject.exe
+C:\Users\villa MEDAC\source\repos\ClaseObject\ClaseObject\obj\Debug\ClaseObject.xml
+C:\Users\villa MEDAC\source\repos\ClaseObject\ClaseObject\obj\Debug\ClaseObject.pdb
